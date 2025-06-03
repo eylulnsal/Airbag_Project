@@ -29,6 +29,6 @@ Ziel ist es, das Verhalten eines Airbag-Systems bei einem Aufprall nachzubilden 
 Die Beschleunigungsdaten werden durch einen Kalman-Filter geglättet, um Messrauschen zu reduzieren und zuverlässigere Entscheidungen zu ermöglichen.
 
 ## Projektteam
-Eylül Önsal
-Kader Yeşilbağ
-Nazlı Demir
+- Eylül Önsal
+- Kader Yeşilbağ
+- Nazlı Demir
